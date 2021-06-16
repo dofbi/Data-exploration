@@ -1,7 +1,6 @@
 # Liens de site de données
 Exploitation et visualisation des données collectées durant le projet
 
-
 #Example of ressources and visualization : 
 
 https://opendatabarometer.org/4thedition/detail-country/?_year=2016&indicator=ODB&detail=SEN	
